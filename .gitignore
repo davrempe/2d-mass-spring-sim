@@ -1,2 +1,4 @@
 *.VC.opendb
 *.VC.db
+SpringMassSim/Debug/*
+SpringMassSim/Debug/Debug/*
