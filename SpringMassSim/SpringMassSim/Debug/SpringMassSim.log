@@ -1,0 +1,14 @@
+﻿  SpringMassSim.cpp
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(186): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(247): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(320): warning C4018: '<': signed/unsigned mismatch
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(517): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(518): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(617): warning C4018: '<': signed/unsigned mismatch
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(777): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\springmasssim.cpp(921): warning C4305: 'argument': truncation from 'double' to 'float'
+  LoadProgram.cpp
+c:\users\davis\documents\projects\graphics_learning\2d-mass-spring-sim\springmasssim\springmasssim\loadprogram.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+  SpringMassSim.vcxproj -> C:\Users\Davis\Documents\projects\graphics_learning\2d-mass-spring-sim\SpringMassSim\Debug\SpringMassSim.exe

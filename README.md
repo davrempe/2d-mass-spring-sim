@@ -1,5 +1,7 @@
 # 2D Mass-Spring Interactive Simulation
-This is an interactive two-dimensional mass-spring system simulator written using OpenGL and GLUT.
+This is an interactive two-dimensional mass-spring system simulator written using OpenGL and GLUT. The core of the simulation is implemented in 'SpringMassSim\SpringMassSim\SpringMassSim.cpp'
+
+![alt text](https://github.com/davrempe/2d-mass-spring-sim/tree/master/images/screenshot.png "Example of simulation running"))
 
 # To Run:
 * The easiest way is to simply open the Visual Studio solution and run. This uses the nupengl package installed through VS.  
