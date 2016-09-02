@@ -17,7 +17,8 @@ To start the simulation, press <kbd>-></kbd>. The simulation can be paused at an
 
 While the simulation is running you can _LEFT-CLICK_ and drag on any dynamic mass to interact with the system.
 
-# Details:
-The simulation uses Euler's Method for numerical integration. The collision detection implementation is fairly simple and assumes elastic collisions. It waits until the boundaries of two masses touch and handles the collision at this time, resulting in some wonky behavior if too many particles collide at once. 
+# Details
+
+The simulation uses forward Euler's method for numerical integration. The collision detection implementation is fairly simple and assumes elastic collisions. It waits until the boundaries of two masses touch and handles the collision at this time, resulting in some wonky behavior if too many particles collide at once. 
 
 This project was inspired by [these course notes](https://graphics.stanford.edu/courses/cs448b-00-winter/papers/phys_model.pdf) on Physically Based Modeling by David Baraff and Andrew Witkin from SIGGRAPH 1999. 
